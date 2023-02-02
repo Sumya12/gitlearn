@@ -2,7 +2,7 @@ public class Multiply {
     public static void main(String[] args) {
         int a = 5;
         int b = 5;
-        System.out.println("Hello Sumit:");
+        System.out.println("Hello Sumita:");
         System.out.println(a - b);
     }
 }
